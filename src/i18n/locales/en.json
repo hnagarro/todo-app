@@ -1,0 +1,11 @@
+{
+  "title": "To-Do List",
+  "todo_list": "List",
+  "add_todo": "Add To-Do",
+  "enter_todo": "Enter To-Do",
+  "search": "Search",
+  "search_placeholder": "Search To-Do",
+  "delete": "Delete", 
+  "done": "Done",
+  "not_found": "No Item Found"
+}

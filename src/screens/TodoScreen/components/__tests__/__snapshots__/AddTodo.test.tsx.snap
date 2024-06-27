@@ -1,0 +1,90 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AddTodo Component should disable button when loading is true: button snapshot 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "flexDirection": "row",
+      "justifyContent": "space-between",
+      "marginBottom": 20,
+    }
+  }
+>
+  <TextInput
+    onChangeText={[MockFunction]}
+    placeholder="enter_todo"
+    placeholderTextColor="#000"
+    style={
+      [
+        {
+          "borderColor": "#ccc",
+          "borderWidth": 1,
+          "color": "#000",
+          "flex": 1,
+          "padding": 10,
+        },
+        false,
+      ]
+    }
+    testID="enter_todo"
+    value="new todo"
+  />
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": true,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "backgroundColor": "#d3d3d3",
+        "borderRadius": 5,
+        "justifyContent": "center",
+        "marginLeft": 10,
+        "opacity": 1,
+        "paddingHorizontal": 20,
+        "paddingVertical": 10,
+      }
+    }
+    testID="add_todo"
+  >
+    <Text
+      style={
+        [
+          {
+            "color": "#fff",
+            "fontSize": 16,
+          },
+          undefined,
+        ]
+      }
+    >
+      add_todo
+    </Text>
+  </View>
+</View>
+`;

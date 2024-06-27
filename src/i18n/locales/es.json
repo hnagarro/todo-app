@@ -1,0 +1,11 @@
+{
+  "title": "Lista de Tareas",
+  "todo_list": "Lista",
+  "add_todo": "Agregar Tarea",
+  "enter_todo": "Ingrese una Tarea",
+  "search": "Buscar",
+  "search_placeholder": "Buscar Tarea",
+  "delete": "Eliminar",
+  "done": "Completado",
+  "not_found": "No se encontró ningún artículo"
+}
